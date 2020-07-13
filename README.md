@@ -1,3 +1,3 @@
 # docker-simple
 
-Very simple Dockerfile, not aiming to produce a runable container.
+Very simple Dockerfile, a typical 2-stage-build with very small base images and a file copied around.
